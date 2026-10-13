@@ -17,8 +17,8 @@ I am a Physics researcher and educator at Tribhuvan University, Nepal.
 - NumPy, Pandas, Matplotlib
 - Jupyter Notebook
 - LaTeX and Overleaf
-- Hyprion
-  MATLAB
+- Hyperion
+- MATLAB
 
 ### Research Projects
 - Galaxy evolution and black hole accretion
